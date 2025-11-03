@@ -1,0 +1,9 @@
+{
+    "telegram": {
+        "bot_token": "TOKEN_DO_SEU_BOT",
+        "chat_id_test": "SEU_CHAT_ID",
+        "chat_id_prod": "CHAT_ID_GRUPO"
+    },
+    "encurtador": "https://api.encurtador.dev/encurtamentos",
+    "planilha": "URL_DA_SUA_PLANILHA/export?format=csv"
+}
