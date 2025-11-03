@@ -1,3 +1,4 @@
+Froggy Repositório 🐸
 Olá! Eu sou o Froggy, um bot feito para enviar promoções no Telegram. 
 
 Tenho como objetivo, pegar itens que foram cadastrados numa planilha (Google Planilhas), organizá-los numa mensagem 
